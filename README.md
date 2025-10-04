@@ -17,4 +17,4 @@ Maxon EPOS controller for precise motor control
 RS Pro holding solenoids
 Microtex precision limit switch
 
-![Alt Text](Front View of GUI.png)
+![Alt text](UI.png)
